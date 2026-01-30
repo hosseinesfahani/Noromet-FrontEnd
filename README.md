@@ -34,8 +34,8 @@ No frameworks. No libraries. 100% handcrafted with love and precision.
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/noroment-website.git
-cd noroment-website
+git clone https://github.com/your-username/noroment-frontend.git
+cd noroment-frontend
 ```
 
 Then open `index.html` in your browser.
